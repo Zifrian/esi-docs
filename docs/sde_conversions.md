@@ -28,11 +28,11 @@ Tables from Steve's conversion converted into JSON files, with CORS headers.
 * [List of tables](http://sde.zzeve.com/tables.json)
 * [Source code](https://github.com/cvweiss/sde2json/)
 
-## [EVE SDE Database Builder - by Zifrian](https://forums.eveonline.com/default.aspx?g=posts&t=500859)
-EVE SDE Database Builder is a Windows application that lets users import the SDE yaml files into MS Access, MS SQL Server, Comma Separated Values, Semi-colon Separated Values, MySQL, PostgreSQL, and SQLite. Additionally, users can customize the import by language type and selecting specific SDE yaml files to import or ignore.
+## [EVE SDE Database Builder - by Zifrian](https://forums.eveonline.com/t/eve-sde-database-builder-download-and-build-the-sde-in-7-languages-and-6-database-types/290488)
+EVE SDE Database Builder is a Windows application that lets users import the SDE yaml files into MS Access, MS SQL Server, Comma Separated Values, Semi-colon Separated Values, MySQL, PostgreSQL, and SQLite. Additionally, users can customize the import by language type (English, French, German, Japanese, Chinese, Russian, and Korean) and selecting specific SDE yaml files to import or ignore.
 
 Main links for the application:
-* [Screenshot of the program](http://i.imgur.com/iQIyUrw.png)
+* [Screenshot of the program](https://i.imgur.com/FPoSFPz.png)
 * [Binaries for installing the program](https://github.com/EVEIPH/EVE-SDE-Database-Builder/raw/master/Latest%20Files/EVE%20SDE%20Database%20Builder%20Install.zip)
 * [SQL Schema used](https://github.com/EVEIPH/EVE-SDE-Database-Builder/blob/master/Latest%20Files/EVESDEDB_Schema.sql)
 * [Github for the code](https://github.com/EVEIPH/EVE-SDE-Database-Builder)
